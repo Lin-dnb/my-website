@@ -1,0 +1,28 @@
+body {
+    background: url('images/DSCF4155.JPG') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+a:hover {
+    text-decoration: underline;
+}
